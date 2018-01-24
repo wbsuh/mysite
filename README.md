@@ -1,4 +1,4 @@
 # mysite
 
-A simple blog app in Django for hosting in PythonAnywhere.com. 
+A simple blog app in Django for testing and hosting at PythonAnywhere.com. 
 
